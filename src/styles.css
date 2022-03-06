@@ -346,4 +346,7 @@ body {
         display: flex;
         flex-direction: column;
     }
+    .me-in-short {
+        padding: 20px;
+    }
 }
